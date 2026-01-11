@@ -1,4 +1,4 @@
-# 🚀 Hybrid Django + FastAPI URL Shortener
+# 🚀 Django URL Shortener
 
 ![Python](https://img.shields.io/badge/python-3.11-blue?logo=python\&logoColor=white) ![Django](https://img.shields.io/badge/django-5.0-green?logo=django\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-success?logo=fastapi) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
