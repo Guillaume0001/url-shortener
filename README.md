@@ -1,6 +1,6 @@
 # 🚀 Django URL Shortener
 
-![Python](https://img.shields.io/badge/python-3.11-blue?logo=python\&logoColor=white) ![Django](https://img.shields.io/badge/django-5.0-green?logo=django\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-success?logo=fastapi) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python\&logoColor=white) ![Django](https://img.shields.io/badge/django-5.0-green?logo=django\&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **A modern URL shortener fully built on Django with API key authentication 🌐✨**  
 *Turn your long links into short, shareable URLs quickly and efficiently! 🏎️💨*
